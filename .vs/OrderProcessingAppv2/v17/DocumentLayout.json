@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiatr\\source\\repos\\OrderProcessingAppv2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBB73A-6919-446C-ADB3-EE472FBA648A}|OrderProcessingAppv2\\OrderProcessingAppv2.csproj|c:\\users\\wiatr\\source\\repos\\orderprocessingappv2\\orderprocessingappv2\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EBB73A-6919-446C-ADB3-EE472FBA648A}|OrderProcessingAppv2\\OrderProcessingAppv2.csproj|solutionrelative:orderprocessingappv2\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBB73A-6919-446C-ADB3-EE472FBA648A}|OrderProcessingAppv2\\OrderProcessingAppv2.csproj|c:\\users\\wiatr\\source\\repos\\orderprocessingappv2\\orderprocessingappv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EBB73A-6919-446C-ADB3-EE472FBA648A}|OrderProcessingAppv2\\OrderProcessingAppv2.csproj|solutionrelative:orderprocessingappv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBB73A-6919-446C-ADB3-EE472FBA648A}|OrderProcessingAppv2\\OrderProcessingAppv2.csproj|c:\\users\\wiatr\\source\\repos\\orderprocessingappv2\\orderprocessingappv2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EBB73A-6919-446C-ADB3-EE472FBA648A}|OrderProcessingAppv2\\OrderProcessingAppv2.csproj|solutionrelative:orderprocessingappv2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBB73A-6919-446C-ADB3-EE472FBA648A}|OrderProcessingAppv2\\OrderProcessingAppv2.csproj|c:\\users\\wiatr\\source\\repos\\orderprocessingappv2\\orderprocessingappv2\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EBB73A-6919-446C-ADB3-EE472FBA648A}|OrderProcessingAppv2\\OrderProcessingAppv2.csproj|solutionrelative:orderprocessingappv2\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1170,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\OrderProcessingAppv2\\OrderProcessingAppv2\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderProcessingAppv2\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\OrderProcessingAppv2\\OrderProcessingAppv2\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderProcessingAppv2\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:58:22.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\OrderProcessingAppv2\\OrderProcessingAppv2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderProcessingAppv2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\OrderProcessingAppv2\\OrderProcessingAppv2\\Models\\Order.cs",
+              "RelativeToolTip": "OrderProcessingAppv2\\Models\\Order.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:57:49.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\OrderProcessingAppv2\\OrderProcessingAppv2\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "OrderProcessingAppv2\\Models\\Enums.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\OrderProcessingAppv2\\OrderProcessingAppv2\\Models\\Enums.cs",
+              "RelativeToolTip": "OrderProcessingAppv2\\Models\\Enums.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:57:12.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiatr\\source\\repos\\OrderProcessingAppv2\\OrderProcessingAppv2\\Program.cs",
+              "RelativeDocumentMoniker": "OrderProcessingAppv2\\Program.cs",
+              "ToolTip": "C:\\Users\\wiatr\\source\\repos\\OrderProcessingAppv2\\OrderProcessingAppv2\\Program.cs",
+              "RelativeToolTip": "OrderProcessingAppv2\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:56:20.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

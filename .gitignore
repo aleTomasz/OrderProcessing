@@ -1,0 +1,65 @@
+## Build results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Rider
+.idea/
+
+## Visual Studio Code
+.vscode/
+
+## NuGet
+*.nupkg
+packages/
+*.snupkg
+
+## Logs
+*.log
+
+## Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+
+## DotCover
+*.dotCover
+
+## Visual Studio profiler
+*.vsp
+*.vspx
+*.sap
+
+## VS Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Other
+_ReSharper*/
+*.resharper
+*.cache
+*.dbmdl
+*.sdf
+*.sqlite
+*.pdb
+*.mdb
+
+## Mac/Linux hidden files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows image thumbs
+Thumbs.db
+
+## Env files
+.env
+.env.*
